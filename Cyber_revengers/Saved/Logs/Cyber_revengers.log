@@ -4236,3 +4236,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-15.06.57:044][576]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level10AB4D81C405270A49087EC9B32843A4F.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
 [2021.12.15-15.06.57:067][576]AssetCheck: New page: Asset Save: level1
 [2021.12.15-15.06.57:067][576]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-15.17.38:714][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.15-15.17.38:719][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-15.17.38:719][898]PIE: New page: PIE session: level1 (Dec 16, 2021, 5:17:38 AM)
+[2021.12.15-15.17.38:719][898]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_level1
+[2021.12.15-15.17.38:726][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006715s)
+[2021.12.15-15.17.38:727][898]LogAIModule: Creating AISystem for world level1
+[2021.12.15-15.17.38:727][898]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2021.12.15-15.17.38:727][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/level1.level1 to /Game/level/UEDPIE_0_level1.level1 (0.008024s)
+[2021.12.15-15.17.38:748][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.12.15-15.17.38:750][898]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-15.17.38:751][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-15.17.38:751][898]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-15.17.38:751][898]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 4: BackLeft
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 5: BackRight
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 6: SideLeft
+[2021.12.15-15.17.38:754][898]LogAudioMixer: Display: 7: SideRight
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-15.17.38:791][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-15.17.38:791][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.15-15.17.38:807][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-15.17.38:807][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-15.17.38:807][898]LogInit: FAudioDevice initialized.
+[2021.12.15-15.17.38:807][898]LogAudio: Display: Audio Device (ID: 56) registered with world 'level1'.
+[2021.12.15-15.17.38:853][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.17.38:853][898]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-15.17.38:856][898]LogWorld: Bringing World /Game/level/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2021.12.15-22.17.38
+[2021.12.15-15.17.38:857][898]LogWorld: Bringing up level for play took: 0.003312
+[2021.12.15-15.17.38:857][898]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.12.15-15.17.38:862][898]PIE: Server logged in
+[2021.12.15-15.17.38:864][898]PIE: Play in editor total start time 0.146 seconds.
+[2021.12.15-15.17.48:878][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.17.48:878][496]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_level1
+[2021.12.15-15.17.48:879][496]LogSlate: Window 'Cyber_revengers Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.15-15.17.48:885][496]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.17.48:886][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.17.48:896][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-15.17.48:900][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.17.48:921][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.17.48:922][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.17.48:973][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.12.15-15.17.48:988][497]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.12.15-15.18.20:685][854]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.12.15-15.18.20:734][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.12.15-15.18.22:723][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/level1" FILE="../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.15-15.18.22:746][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.12.15-15.18.22:777][965]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level1C4D86EDD4E3D10F3679C8CBBDB2F7337.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
+[2021.12.15-15.18.22:799][965]AssetCheck: New page: Asset Save: level1
+[2021.12.15-15.18.22:799][965]LogContentValidation: Display: Validating World /Game/level/level1.level1
