@@ -4300,3 +4300,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-15.18.22:777][965]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level1C4D86EDD4E3D10F3679C8CBBDB2F7337.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
 [2021.12.15-15.18.22:799][965]AssetCheck: New page: Asset Save: level1
 [2021.12.15-15.18.22:799][965]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-15.21.29:772][  8]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.12.15-15.21.29:816][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.12.15-15.21.31:865][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/level1" FILE="../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.15-15.21.31:885][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.12.15-15.21.31:915][124]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level1833BA2BC403E98CBCD29DBB7D3DD860B.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
+[2021.12.15-15.21.31:933][124]AssetCheck: New page: Asset Save: level1
+[2021.12.15-15.21.31:933][124]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-15.21.42:350][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/level1" FILE="../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.15-15.21.42:370][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.15-15.21.42:407][741]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level14C85CABE460FA2AE2645DA894E121390.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
+[2021.12.15-15.21.42:426][741]AssetCheck: New page: Asset Save: level1
+[2021.12.15-15.21.42:426][741]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-15.21.49:788][915]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/flipbooks/SamRunning-Sheet1.SamRunning-Sheet1
+[2021.12.15-15.21.51:164][992]LogSlate: Window 'SamRunning-Sheet1' being destroyed
+[2021.12.15-15.21.51:170][992]LogSlate: Window 'SamRunning-Sheet1' being destroyed
+[2021.12.15-15.21.51:173][992]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.21.51:173][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.21.51:334][992]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.21.51:334][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.22.05:409][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/level1" FILE="../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.15-15.22.05:435][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.15-15.22.05:474][281]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level1B71859B940D81B322799F3858F4EE931.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
+[2021.12.15-15.22.05:491][281]AssetCheck: New page: Asset Save: level1
+[2021.12.15-15.22.05:491][281]LogContentValidation: Display: Validating World /Game/level/level1.level1
