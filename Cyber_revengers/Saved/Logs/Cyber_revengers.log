@@ -6981,3 +6981,39 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.12.15-03.20.52:483][512]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level1217A357F40F4C77E053B1BAA7567CFA4.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
 [2021.12.15-03.20.52:503][512]AssetCheck: New page: Asset Save: level1
 [2021.12.15-03.20.52:503][512]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-03.21.41:729][ 86]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2021.12.15-03.21.42:798][149]LogEditorViewport: Clicking Background
+[2021.12.15-03.22.08:637][279]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (scifi_stair_1a2a_Sprite6)
+[2021.12.15-03.22.09:252][315]LogEditorViewport: Clicking Background
+[2021.12.15-03.22.14:469][628]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (scifi_stair_1a2a_Sprite6)
+[2021.12.15-03.22.16:018][720]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (scifi_stair_1a2b_Sprite4)
+[2021.12.15-03.22.19:686][938]LogEditorViewport: Clicking Background
+[2021.12.15-03.22.21:170][ 27]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (scifi_stair_1a2b_Sprite5)
+[2021.12.15-03.22.22:669][116]LogEditorViewport: Clicking Background
+[2021.12.15-03.22.32:011][672]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/flipbooks/scifi_alien_idle.scifi_alien_idle
+[2021.12.15-03.22.34:215][797]LogSlate: Window 'scifi_alien_idle' being destroyed
+[2021.12.15-03.22.34:222][797]LogSlate: Window 'scifi_alien_idle' being destroyed
+[2021.12.15-03.22.34:224][797]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-03.22.34:224][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-03.26.07:959][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\gew\Downloads\New folder\png\Objects\DoorLocked.png)
+[2021.12.15-03.26.07:964][590]LogTexture: Display: Building textures: DoorLocked (AutoDXT, 280X464)
+[2021.12.15-03.26.11:980][806]LogTexture: Display: Building textures: DoorLocked (BGRA8, 280X464)
+[2021.12.15-03.26.21:647][362]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.34:310][ 97]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (DoorLocked_Sprite)
+[2021.12.15-03.26.37:331][277]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.39:164][387]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (DoorLocked_Sprite)
+[2021.12.15-03.26.41:303][513]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.41:337][515]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.43:537][647]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.47:903][909]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (DoorLocked_Sprite)
+[2021.12.15-03.26.50:563][ 67]LogEditorViewport: Clicking Background
+[2021.12.15-03.26.53:764][259]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (DoorLocked_Sprite)
+[2021.12.15-03.26.56:599][428]Cmd: DELETE
+[2021.12.15-03.26.56:599][428]Cmd: ACTOR DELETE
+[2021.12.15-03.26.56:603][428]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.15-03.26.56:625][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.12.15-03.26.56:632][428]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.12.15-03.30.34:588][560]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.15-03.30.34:588][560]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.15-03.30.38:433][771]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (scifi_console_1a1a_Sprite)
+[2021.12.15-03.30.41:543][956]LogEditorViewport: Clicking Background
