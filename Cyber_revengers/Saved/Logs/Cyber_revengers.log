@@ -4116,3 +4116,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-15.03.52:794][170]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level16FAD52184E0325B268621FBD446A5AEB.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
 [2021.12.15-15.03.52:827][170]AssetCheck: New page: Asset Save: level1
 [2021.12.15-15.03.52:827][170]LogContentValidation: Display: Validating World /Game/level/level1.level1
+[2021.12.15-15.06.12:419][744]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.15-15.06.12:423][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-15.06.12:423][744]PIE: New page: PIE session: level1 (Dec 16, 2021, 5:06:12 AM)
+[2021.12.15-15.06.12:423][744]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_level1
+[2021.12.15-15.06.12:430][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006820s)
+[2021.12.15-15.06.12:431][744]LogAIModule: Creating AISystem for world level1
+[2021.12.15-15.06.12:431][744]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2021.12.15-15.06.12:432][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/level1.level1 to /Game/level/UEDPIE_0_level1.level1 (0.008115s)
+[2021.12.15-15.06.12:454][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.12.15-15.06.12:455][744]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-15.06.12:455][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-15.06.12:455][744]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-15.06.12:455][744]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 4: BackLeft
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 5: BackRight
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 6: SideLeft
+[2021.12.15-15.06.12:458][744]LogAudioMixer: Display: 7: SideRight
+[2021.12.15-15.06.12:497][744]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.12.15-15.06.12:497][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-15.06.12:497][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-15.06.12:497][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-15.06.12:498][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-15.06.12:498][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-15.06.12:498][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.15-15.06.12:514][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-15.06.12:514][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-15.06.12:514][744]LogInit: FAudioDevice initialized.
+[2021.12.15-15.06.12:514][744]LogAudio: Display: Audio Device (ID: 54) registered with world 'level1'.
+[2021.12.15-15.06.12:572][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.06.12:573][744]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-15.06.12:577][744]LogWorld: Bringing World /Game/level/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2021.12.15-22.06.12
+[2021.12.15-15.06.12:577][744]LogWorld: Bringing up level for play took: 0.003775
+[2021.12.15-15.06.12:577][744]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.12.15-15.06.12:582][744]PIE: Server logged in
+[2021.12.15-15.06.12:587][744]PIE: Play in editor total start time 0.164 seconds.
+[2021.12.15-15.06.14:008][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.06.14:008][826]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_level1
+[2021.12.15-15.06.14:008][826]LogSlate: Window 'Cyber_revengers Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.15-15.06.14:019][826]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.06.14:020][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.06.14:032][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-15.06.14:036][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.06.14:056][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-15.06.14:056][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.06.14:057][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.06.14:080][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.12.15-15.06.14:095][827]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.12.15-15.06.32:345][311]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.15-15.06.32:350][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-15.06.32:350][311]PIE: New page: PIE session: level1 (Dec 16, 2021, 5:06:32 AM)
+[2021.12.15-15.06.32:350][311]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_level1
+[2021.12.15-15.06.32:358][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007911s)
+[2021.12.15-15.06.32:359][311]LogAIModule: Creating AISystem for world level1
+[2021.12.15-15.06.32:359][311]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2021.12.15-15.06.32:359][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/level1.level1 to /Game/level/UEDPIE_0_level1.level1 (0.009105s)
+[2021.12.15-15.06.32:382][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.12.15-15.06.32:383][311]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-15.06.32:384][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-15.06.32:384][311]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-15.06.32:384][311]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 4: BackLeft
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 5: BackRight
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 6: SideLeft
+[2021.12.15-15.06.32:387][311]LogAudioMixer: Display: 7: SideRight
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-15.06.32:428][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-15.06.32:428][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.15-15.06.32:443][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-15.06.32:443][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-15.06.32:443][311]LogInit: FAudioDevice initialized.
+[2021.12.15-15.06.32:443][311]LogAudio: Display: Audio Device (ID: 55) registered with world 'level1'.
+[2021.12.15-15.06.32:496][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.06.32:497][311]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-15.06.32:500][311]LogWorld: Bringing World /Game/level/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2021.12.15-22.06.32
+[2021.12.15-15.06.32:500][311]LogWorld: Bringing up level for play took: 0.002398
+[2021.12.15-15.06.32:500][311]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.12.15-15.06.32:504][311]PIE: Server logged in
+[2021.12.15-15.06.32:506][311]PIE: Play in editor total start time 0.157 seconds.
+[2021.12.15-15.06.48:787][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.06.48:787][283]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_level1
+[2021.12.15-15.06.48:788][283]LogSlate: Window 'Cyber_revengers Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.15-15.06.48:795][283]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.06.48:795][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.06.48:804][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-15.06.48:809][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.06.48:836][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.06.48:837][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.06.48:890][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.12.15-15.06.48:908][284]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.12.15-15.06.56:978][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/level1" FILE="../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.15-15.06.57:004][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.15-15.06.57:044][576]LogSavePackage: Moving '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Saved/level10AB4D81C405270A49087EC9B32843A4F.tmp' to '../../../../../../Users/gew/Documents/GitHub/GameDev2021/Cyber_revengers/Content/level/level1.umap'
+[2021.12.15-15.06.57:067][576]AssetCheck: New page: Asset Save: level1
+[2021.12.15-15.06.57:067][576]LogContentValidation: Display: Validating World /Game/level/level1.level1
